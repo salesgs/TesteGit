@@ -1,0 +1,18 @@
+package br.com.dir;
+import br.com.dir.models.Gato;
+
+
+public class Execute {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Gato gato = new Gato(null,null,null);
+		
+	}
+
+}
+
+class Livros{
+	
+}
